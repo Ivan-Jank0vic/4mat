@@ -1,10 +1,8 @@
-p
-{
+p{
     font-family: 'Courier New', Courier, monospace;
 }
 
-body
-{
+body{
     background-color: rgb(250, 235, 215);
 }
 
@@ -12,8 +10,7 @@ body
     display: flex;
 }
 
-.box
-{
+.box{
     background-color: rgb(250, 220, 200);
 
     position: absolute;
@@ -25,16 +22,14 @@ body
     border-left: 8px solid salmon;
 }
 
-.title
-{
+.title{
     font-family: 'Be Vietnam Pro', sans-serif;
     margin-top: 0px;
     font-size: 45px;
     color: darkslategray;
 }
 
-.desc
-{
+.desc{
     font-family: 'Be Vietnam Pro', sans-serif;
     font-size: 20px;
     font-weight: normal;
