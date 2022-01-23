@@ -19,14 +19,14 @@ body{
     transform: translate(-50%, -50%);
     padding: 20px;
 
-    border-left: 8px solid salmon;
+    border-left: 8px solid rgb(255, 132, 118);
 }
 
 .title{
     font-family: 'Be Vietnam Pro', sans-serif;
     margin-top: 0px;
     font-size: 45px;
-    color: darkslategray;
+    color: rgb(36, 71, 71);
 }
 
 .desc{
@@ -46,10 +46,10 @@ input{
 
 button{
     font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 16px;
 }
 
 .loginbutton{
     width: 308px;
     height: 30px;
-    position: ce;
 }
