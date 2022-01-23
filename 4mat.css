@@ -18,8 +18,9 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 20px;
-    box-shadow: 0px 0px 5px rgb(194, 171, 155);
+    box-shadow: 0px 0px 8px rgb(194, 171, 155);
     border-left: 8px solid rgb(255, 132, 118);
+    border-radius: 10px;
 }
 
 .title{
@@ -39,18 +40,22 @@ body{
 
 input{
     width: 300px;
-    height: 32px;
+    height: 20px;
     font-size: 16px;
     font-family: 'Be Vietnam Pro', sans-serif;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
 }
 
 button{
     font-family: 'Be Vietnam Pro', sans-serif;
     font-size: 16px;
+    margin: 5px;
 }
 
 .loginbutton{
-    width: 308px;
+    width: 307px;
     height: 30px;
     font-weight: bold;
 }
