@@ -50,6 +50,10 @@ input{
     border: 1px solid rgb(23, 145, 194);
 }
 
+input:focus{
+    outline: 2px solid rgb(23, 145, 194);;
+}
+
 button{
     font-family: 'Be Vietnam Pro', sans-serif;
     font-size: 16px;
@@ -75,7 +79,7 @@ a{
 }
 
 .loginbutton:hover{
-    background-color: rgb(73, 81, 121);
+    background-color: rgb(78, 86, 128);
 }
 
 .registerbutton{
