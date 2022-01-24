@@ -48,10 +48,11 @@ input{
     margin: 5px;
     padding: 10px;
     border: 1px solid rgb(23, 145, 194);
+    transition-duration: 20ms;
 }
 
 input:focus{
-    outline: 2px solid rgb(23, 145, 194);;
+    outline: 2px solid rgb(23, 145, 194);
 }
 
 button{
@@ -64,6 +65,14 @@ button{
 a{
     font-family: 'Be Vietnam Pro', sans-serif;
     margin: 5px;
+}
+.forgotpw{
+    color: rgb(25, 98, 158);
+    text-decoration: none;
+}
+
+.forgotpw:hover{
+    text-decoration: underline;
 }
 
 .loginbutton{
