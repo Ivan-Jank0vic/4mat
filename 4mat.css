@@ -107,3 +107,28 @@ a{
 .registerbutton:hover{
     background-color: rgb(221, 193, 140);
 }
+
+.navbar-items{
+    display: inline;
+    float: left;
+    padding-left: 10px;
+}
+
+.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.signbtn{
+    background-color: rgb(100, 177, 207);
+    border: 1px solid rgb(0, 28, 111);
+    border-radius: 15px;
+    width: 100px;
+    outline: none;
+    transition: 100ms;
+}
+
+.signbtn:hover{
+    background-color: rgb(152, 205, 226);
+}
