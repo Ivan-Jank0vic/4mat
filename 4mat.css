@@ -121,8 +121,9 @@ a{
 }
 
 .signbtn{
+    font-family: 'Be Vietnam Pro', sans-serif;
     background-color: rgb(100, 177, 207);
-    border: 1px solid rgb(0, 28, 111);
+    border: none;
     border-radius: 15px;
     width: 100px;
     outline: none;
